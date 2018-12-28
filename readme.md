@@ -1,1 +1,1 @@
-#Learing Project from Traversy Media
+# Lerning Project from Traversy Media
