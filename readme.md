@@ -1,1 +1,3 @@
 # Lerning Project from Traversy Media
+
+In this video we will deploy to Github Pages using the gh-pages package. I will also upload to my shared hosting account with InMotion hosting. If you would like to try InMotion, please use my affiliate link below...
