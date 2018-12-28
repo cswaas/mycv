@@ -22,7 +22,7 @@
   div.menu-branding {
     float: none;
     width: 100%;
-    min-height: 0;
+    min-height: 200px;
 
     &.show {
       transform: translate3d(0, 0, 0);
@@ -37,6 +37,7 @@
 
   .menu-branding {
     height: 25vh;
+    // height: 200px;
     transform: translate3d(100%, 0, 0);
 
     .portrait {
@@ -44,6 +45,17 @@
       width: 150px;
       height: 150px;
     }
+  }
+
+  .about-info {
+    grid-template-areas:
+      "bioimage"
+      "bio"
+      "job1"
+      "job2"
+      "job3";
+
+    grid-template-columns: 1fr;
   }
 }
 
