@@ -1,3 +1,10 @@
 # Learning Project from Traversy Media
 
-In this video we will deploy to Github Pages using the gh-pages package. I will also upload to my shared hosting account with InMotion hosting. If you would like to try InMotion, please use my affiliate link below...
+In this series we will build a fully responsive portfolio website using modern technologies such as...
+
+HTML5
+CSS3 - Transitions/Grid/Flex
+Sass
+NPM Package Manager
+JavaScript
+Git
